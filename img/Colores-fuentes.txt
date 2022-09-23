@@ -1,0 +1,6 @@
+
+Background: #1a1a1a
+Primary: #00f29e
+
+Títulos:  https://fonts.google.com/specimen/Fugaz+One?query=fugaz
+Parrafos: https://fonts.google.com/specimen/Dosis?query=dosis
